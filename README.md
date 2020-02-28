@@ -1,2 +1,2 @@
 <h1>This is Enrique Mota Santibañez Resume!</h1>
-<p>This was created in HTML language, as an assignment for the Web Development class, for the first laboratory.</p>
+<p>This was created in HTML language, as an assignment for the Web Development class, for the second laboratory. I also used some CSS styling for my resume as part of my assignment.</p>
